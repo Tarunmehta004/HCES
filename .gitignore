@@ -1,0 +1,20 @@
+# 2022-23 Folders
+HCES 2022-23/Analysis/
+HCES 2022-23/Documentation/
+HCES 2022-23/Dta raw files/
+HCES 2022-23/NSS 68/
+HCES 2022-23/Parquet raw files/
+HCES 2022-23/Processed data/
+
+# 2023-24 Folders
+HCES 2023-24/Documentation/
+HCES 2023-24/Dta raw files/
+HCES 2023-24/Parquet raw files/
+
+# Miscellaneous
+**/desktop.ini
+.vscode/
+
+# Across survey Folders
+Across survey analysis/LPG and firewood statistics/*
+!Across survey analysis/LPG and firewood statistics/TM*
