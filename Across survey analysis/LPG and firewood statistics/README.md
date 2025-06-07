@@ -9,4 +9,4 @@ This repo consists of the following files of interest:
 4. `TM - potential LPG subsidy schemes 9May25.xlsx`: Collates list of existing central government schemes that can be used to promote LPG consumption.
 
 ## Note
-[This analysis was conducted in collaboration with Karthik Ganesan.](https://www.ceew.in/karthik-ganesan)
+This analysis was conducted in collaboration with [Karthik Ganesan.](https://www.ceew.in/karthik-ganesan)
