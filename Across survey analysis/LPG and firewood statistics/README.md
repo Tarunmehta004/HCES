@@ -7,3 +7,6 @@ This repo consists of the following files of interest:
 2. `TM - LPG and firewood 2022-23 HCES.iPYNB`: Contains python code for analysis of 2022-23 HCES data.
 3. `TM - LPG and firewood 2023-24 HCES.iPYNB`: Contains python code for analysis of 2023-24 HCES data.
 4. `TM - potential LPG subsidy schemes 9May25.xlsx`: Collates list of existing central government schemes that can be used to promote LPG consumption.
+
+## Note
+[This analysis was conducted in collaboration with Karthik Ganesan.](https://www.ceew.in/karthik-ganesan)
