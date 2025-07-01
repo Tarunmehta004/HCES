@@ -1,6 +1,6 @@
 # About [WiP]
-Objective -- Identify major determinants of LPG usage in India.<br>
-Method -- Fit a random forest on LPG classes using socio-economic data.<br>
+Objective -- Identify major determinants of LPG usage in India.<br><br>
+Method -- Fit a random forest on LPG classes using socio-economic data.<br><br>
 Key findings -- Random Forest model achieved ~54 per cent accuracy in both CV and test dataset analysis. Very good recall (0.94) for HHs with No LPG consumption. May be we should restrict ourselves to only no LPG and exclusive LPG HHs. Key features associated with the classification include: fridge ownership, tv ownership, monthly per capita expenditure, floor material, and sector (rural vs. urban). 
 
 
