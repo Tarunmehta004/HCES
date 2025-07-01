@@ -1,0 +1,24 @@
+Col_name                    Encoding
+
+num_activities_income:      {'98': 'not engaged in any economic activity'}
+hasincome_selfemp_agri:     {'98': 'not applicable'}
+hasincome_wage_agri:        {'98': 'not applicable'}
+hasincome_casual_agri:      {'98': 'not applicable'}
+land_type:                  {'98': 'no land'}
+type_house:                 {'98': 'no house'}
+material_wall:              {'98': 'no house'}
+material_roof:              {'98': 'no house'}
+material_floor:             {'98': 'no house'}
+is_benefit_healthscheme:    {'98': 'no hospitalisation in last year'}
+has_tv:                     {'98': 'no'}
+has_radio:                  {'98': 'no'}
+has_laptop:                 {'98': 'no'}
+has_mobile:                 {'98': 'no'}
+has_bicycle:                {'98': 'no'}
+has_bike:                   {'98': 'no'}
+has_car:                    {'98': 'no'}
+has_truck:                  {'98': 'no'}
+has_animalcart:             {'98': 'no'}
+has_fridge:                 {'98': 'no'}
+has_washingmachine:         {'98': 'no'}
+has_acORcooler:             {'98': 'no'}
